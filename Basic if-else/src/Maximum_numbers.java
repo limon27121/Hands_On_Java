@@ -26,5 +26,6 @@ public class Maximum_numbers {
                 System.out.println("maximum number is: "+num3);
             }
         }
+        scanner.close();
     }
 }
