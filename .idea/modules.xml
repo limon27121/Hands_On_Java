@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Basic if-else/Basic if-else.iml" filepath="$PROJECT_DIR$/Basic if-else/Basic if-else.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic_prb/Basic_prb.iml" filepath="$PROJECT_DIR$/Basic_prb/Basic_prb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+>>>>>>> 4ab7ab3496eb66aa0ded688963d3caa5a6420429
     </modules>
   </component>
 </project>
