@@ -6,7 +6,7 @@ public class First_digit_last_digit {
         int number = scanner.nextInt();
         int last_digit=number%10;
         int first=number;
-        while (first>=10){
+        while (first>9){
             first/=10;
         }
         System.out.println("first digit: "+first+" last digit: "+last_digit);
