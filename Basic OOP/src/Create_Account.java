@@ -1,9 +1,10 @@
-
+import java.lang.String;
 //blue print of object
 class Account{
     int acc_no;
     String name;
     float amount;
+
     //here is function
     public static void print(){
         System.out.println("i am function");

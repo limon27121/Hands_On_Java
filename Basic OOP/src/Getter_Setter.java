@@ -16,8 +16,9 @@ class Demo {
         this.age = age;
     }
 
-    public void setName(java.lang.String name) {
-        this.name = name;
+    public void setName(String name) {
+
+       name = name;
     }
 }
 
