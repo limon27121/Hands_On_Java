@@ -28,7 +28,7 @@ public class pattern03_with_number {
             }
             System.out.println();
         }
-        
+
 
     }
 }
