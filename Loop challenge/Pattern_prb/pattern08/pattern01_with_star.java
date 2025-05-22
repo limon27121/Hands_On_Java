@@ -1,4 +1,4 @@
-package Pattern_prb.pattern07;
+package Pattern_prb.pattern08;
 
 import java.util.Scanner;
 
@@ -17,5 +17,14 @@ public class pattern01_with_star {
             }
             System.out.println();
         }
+        for (int row=number-1;row>=1;row--){
+            for (int col=1;col<=number-row;col++){
+                System.out.print(" ");
+            }
+            for (int col=1;col<=(row*2)-1;col++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
-    }
+}
