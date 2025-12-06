@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Collections" target="17" />
+      <module name="Collections.main" target="17" />
+      <module name="Collections.test" target="17" />
       <module name="Exception_Handling" target="17" />
       <module name="Exception_Handling.main" target="17" />
       <module name="Exception_Handling.test" target="17" />

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections.iml" filepath="$PROJECT_DIR$/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exception_Handling.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exception_Handling.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exception_Handling.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exception_Handling.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Hands_On_Java.iml" filepath="$PROJECT_DIR$/.idea/Hands_On_Java.iml" />
