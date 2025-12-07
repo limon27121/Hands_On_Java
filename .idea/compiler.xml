@@ -8,6 +8,9 @@
       <module name="Exception_Handling" target="17" />
       <module name="Exception_Handling.main" target="17" />
       <module name="Exception_Handling.test" target="17" />
+      <module name="File" target="17" />
+      <module name="File.main" target="17" />
+      <module name="File.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
