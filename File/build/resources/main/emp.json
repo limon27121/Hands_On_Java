@@ -1,0 +1,9 @@
+{
+  "country": "Bangladesh",
+  "address": {
+    "zip": 1207,
+    "city": "Dhaka"
+  },
+  "name": "Moontaser",
+  "age": 22
+}

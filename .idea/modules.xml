@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exception_Handling.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exception_Handling.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exception_Handling.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exception_Handling.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/File.iml" filepath="$PROJECT_DIR$/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/File.iml" filepath="$PROJECT_DIR$/.idea/modules/File.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/File.main.iml" filepath="$PROJECT_DIR$/.idea/modules/File.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/File.test.iml" filepath="$PROJECT_DIR$/.idea/modules/File.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Hands_On_Java.iml" filepath="$PROJECT_DIR$/.idea/Hands_On_Java.iml" />
