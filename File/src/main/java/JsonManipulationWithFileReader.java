@@ -8,10 +8,10 @@ public class JsonManipulationWithFileReader {
     public static void main(String[] args) throws FileNotFoundException {
         JsonParser jsonparser=new JsonParser();
         JsonObject obj= (JsonObject) jsonparser.parse(new FileReader("./File/src/main/resources/emp.json"));
-        //normal json format
+        //read from normal json format
         String emp_name= String.valueOf(obj.get("name"));
         System.out.println(emp_name);
-        //nested json-format
+        //read from nested json-format
         JsonObject add_obj=obj.getAsJsonObject("address");
         String city1= String.valueOf(add_obj.get("city"));
         System.out.println(city1);

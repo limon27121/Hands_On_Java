@@ -6,12 +6,13 @@ import java.io.IOException;
 
 public class JsonManipulationWithFileWriter {
     public static void main(String[] args) throws IOException {
+        //Create json object
         JSONObject json = new JSONObject();
         json.put("name", "Moontaser");
         json.put("age", 22);
         json.put("country", "Bangladesh");
-
-        JSONObject address = new JSONObject();      // use JSONObject instead of JsonObject
+       //create nested-json object
+        JSONObject address = new JSONObject();
         address.put("city", "Dhaka");
         address.put("zip", 1207);
         json.put("address", address);
